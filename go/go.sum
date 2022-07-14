@@ -1,0 +1,14 @@
+github.com/ReconfigureIO/goblin v0.3.3 h1:ne+AS1OgJ2FClYORlUFNvF+lYL0ch5wK2uleCrfnMuo=
+github.com/ReconfigureIO/goblin v0.3.3/go.mod h1:U3v8Aq44jVVDOmtUmmlF/z2BACS4nYSWtf7dfIQbd4s=
+github.com/go-clang/bootstrap v0.14.0 h1:pT2dHsqEfW3zxzNibo1svrtpbh+s/ET6SNohFaIakYM=
+github.com/go-clang/bootstrap v0.14.0/go.mod h1:a4EmDb8BXcdDBkMbvviEzrDd2LNZXqY7PwHmeyHKy1k=
+github.com/go-clang/gen v0.0.0-20220328190113-32557046df63 h1:xQzgeihxAGpOARwDP9376vbFM4Cun/mmUxkc+hknsyI=
+github.com/go-clang/gen v0.0.0-20220328190113-32557046df63/go.mod h1:LYJE776Z0aj4Qj//b3JnqKjCU0W+hdkkXA6dCcU6KzM=
+golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 h1:kQgndtyPBW/JIYERgdxfwMYh3AVStj88WQTlNDi2a+o=
+golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3/go.mod h1:3p9vT2HGsQu2K1YbXdKPJLVgG5VJdoTa1poYQBtP1AY=
+golang.org/x/sys v0.0.0-20211103235746-7861aae1554b h1:1VkfZQv42XQlA/jchYumAnv1UPo6RgF9rJFkTgZIxO4=
+golang.org/x/sys v0.0.0-20211103235746-7861aae1554b/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/tools v0.1.11-0.20220325212234-e693fb417253 h1:YwnorCjUzb8rjSZ0I83pKFlIPFz4R7J5YevzLY/JFQM=
+golang.org/x/tools v0.1.11-0.20220325212234-e693fb417253/go.mod h1:Uh6Zz+xoGYZom868N8YTex3t7RhtHDBrE8Gzo9bV56E=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
